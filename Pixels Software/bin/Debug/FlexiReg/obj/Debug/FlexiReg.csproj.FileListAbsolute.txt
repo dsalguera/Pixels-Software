@@ -1,0 +1,35 @@
+C:\Users\David\source\repos\FlexiReg\FlexiReg\bin\Debug\FlexiReg.exe.config
+C:\Users\David\source\repos\FlexiReg\FlexiReg\bin\Debug\FlexiReg.exe
+C:\Users\David\source\repos\FlexiReg\FlexiReg\bin\Debug\FlexiReg.pdb
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.Form1.resources
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.Properties.Resources.resources
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.Registros.resources
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.csproj.GenerateResource.cache
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.exe
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.pdb
+C:\Users\David\source\repos\FlexiReg\FlexiReg\obj\Debug\FlexiReg.csprojAssemblyReference.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\bin\Debug\FlexiReg.exe.config
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\bin\Debug\FlexiReg.exe
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\bin\Debug\FlexiReg.pdb
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Confirm.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Form1.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Pass.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Properties.Resources.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Registros.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.csproj.GenerateResource.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.exe
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.pdb
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\bin\Debug\FlexiReg.exe.config
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\bin\Debug\FlexiReg.exe
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\bin\Debug\FlexiReg.pdb
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Confirm.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Form1.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Pass.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Properties.Resources.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.Registros.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.exe
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\FlexiReg\obj\Debug\FlexiReg.pdb

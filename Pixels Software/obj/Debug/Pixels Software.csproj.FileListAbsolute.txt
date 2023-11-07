@@ -1,0 +1,41 @@
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\BouncyCastle.Crypto.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Google.Protobuf.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\MySql.Data.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Buffers.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Memory.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Ubiety.Dns.Core.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Zstandard.Net.dll
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Google.Protobuf.pdb
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Google.Protobuf.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\MySql.Data.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Buffers.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Memory.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.xml
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels Software.csproj.SuggestedBindingRedirects.cache
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels_Software.Ajustes.resources
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels_Software.Form1.resources
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels_Software.Form2.resources
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels_Software.Form3.resources
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels Software.csproj.GenerateResource.cache
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels Software.csproj.CoreCompileInputs.cache
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Pixels Software.exe.config
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Pixels Software.exe
+D:\Pixels Software\Flexigraph Software Manager\bin\Debug\Pixels Software.pdb
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels_Software.Properties.Resources.resources
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels Software.exe
+D:\Pixels Software\Flexigraph Software Manager\obj\Debug\Pixels Software.pdb

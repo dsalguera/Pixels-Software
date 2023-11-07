@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Release\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Release\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Release\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Release\Flexigraph Software Manager.pdb

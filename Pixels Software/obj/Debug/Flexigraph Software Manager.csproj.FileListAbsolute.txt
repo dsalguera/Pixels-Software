@@ -1,0 +1,760 @@
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\netstandard.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.AppContext.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Specialized.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Console.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Data.Common.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Pipes.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Expressions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Parallel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Queryable.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Http.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NameResolution.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Ping.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Requests.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Security.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Sockets.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ObjectModel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Reader.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Writer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Handles.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Claims.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Principal.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.SecureString.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Thread.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Timer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Zstandard.Net.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form3.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\netstandard.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.AppContext.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Specialized.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Console.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Data.Common.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Pipes.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Expressions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Parallel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Queryable.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Http.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NameResolution.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Ping.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Requests.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Security.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Sockets.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ObjectModel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Reader.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Writer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Handles.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Claims.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Principal.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.SecureString.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Thread.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Timer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Zstandard.Net.dll
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form3.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\netstandard.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.AppContext.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Specialized.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Console.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Data.Common.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Pipes.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Expressions.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Parallel.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Queryable.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Http.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NameResolution.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Ping.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Requests.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Security.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Sockets.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ObjectModel.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Reader.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Writer.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Handles.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Claims.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Principal.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.SecureString.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Thread.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Timer.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XDocument.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Zstandard.Net.dll
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form3.resources
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\New folder\Flexigraph Software Manager DB\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\netstandard.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.AppContext.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Collections.Specialized.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Console.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Data.Common.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.Pipes.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Expressions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Parallel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Linq.Queryable.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Http.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NameResolution.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Ping.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Requests.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Security.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.Sockets.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ObjectModel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Reader.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Resources.Writer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Handles.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Claims.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.Principal.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Security.SecureString.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Thread.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Threading.Timer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Zstandard.Net.dll
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\MySql.Data.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form3.resources
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager - LAM\Flexigraph Software Manager DB\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\netstandard.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.AppContext.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Collections.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Collections.Specialized.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.ComponentModel.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Console.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Data.Common.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Globalization.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.Compression.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.Pipes.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Linq.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Linq.Expressions.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Linq.Parallel.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Linq.Queryable.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.Http.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.NameResolution.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.Ping.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.Requests.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.Security.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.Sockets.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Net.WebSockets.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.ObjectModel.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Reflection.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Resources.Reader.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Resources.Writer.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Handles.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Claims.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.Principal.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Security.SecureString.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.Thread.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Threading.Timer.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Xml.XDocument.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\MySql.Data.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Buffers.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Memory.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Zstandard.Net.dll
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Google.Protobuf.pdb
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\Google.Protobuf.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\MySql.Data.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Buffers.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Memory.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form3.resources
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Pixels Software\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
